@@ -1,0 +1,9 @@
+- 메일 전송
+npm istall nodemailer
+
+- 서버
+npm install express
+npm install ejs --save// html에서 js 사용가능
+
+- DB
+npm install mysql --save
